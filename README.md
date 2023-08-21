@@ -23,7 +23,7 @@ I'm always eager to connect with fellow developers, learners, and enthusiasts. I
 
 📫 How to reach me:
 - GitHub: [LucasLeao18](https://github.com/LucasLeao18)
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/lucas-le%C3%A3o-809981269/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-le%C3%A3o-809981269/)
 
 Looking forward to connecting and sharing knowledge with the community!
 
