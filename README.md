@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring coder with a
 
 ## 👀 What I'm up to
 
-- 🌐 Currently focusing on honing my C++ coding skills.
+- 🌐 Currently focusing on honing my Java coding skills.
 - 🐍 Exploring the world of Python and its various applications.
 - 🔒 Working on a project that delves into online identity protection and privacy.
 - 🎓 Studying at university and collaborating on various exciting projects.
