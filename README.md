@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring coder with a
 
 - 🌐 Currently focusing on honing my Java coding skills.
 - 🐍 Exploring the world of Python and its various applications.
-- 🔒 Working on a project that delves into online identity protection and privacy.
+- 🔒 Working on a project that uses Ai to solve bank fraud Problems
 - 🎓 Studying at university and collaborating on various exciting projects.
 
 ## 🌱 What I'm learning
 
 I'm on a learning journey, and my current goals include:
 
-- 🚀 Mastering C++ to create efficient and powerful applications.
+- 🚀 Mastering Ai to create efficient and powerful applications.
 - 🐦 Exploring the capabilities of Python and its versatile use cases.
 - 🔍 Delving into the basics of .lua scripting to enhance my programming toolkit.
 
