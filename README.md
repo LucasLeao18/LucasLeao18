@@ -1,29 +1,53 @@
-# 👋 Hi, I’m LucasLeao18
+👋 Olá! Eu sou o Lucas Leão
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring coder with a strong interest in cybersecurity and programming.
+Desenvolvedor apaixonado por tecnologia, automações, IA e soluções que realmente fazem diferença.
+Aqui você encontra meus projetos, experimentos e muita criatividade.
 
-## 👀 What I'm up to
+🎮 Joguinhos Interativos no Terminal
 
-- 🌐 Currently focusing on honing my Java coding skills.
-- 🐍 Exploring the world of Python and its various applications.
-- 🔒 Working on a project that uses Ai to solve bank fraud Problems
-- 🎓 Studying at university and collaborating on various exciting projects.
+Aperte as setas ⬆️⬇️ para mover e tente capturar o emoji certo!
 
-## 🌱 What I'm learning
+👉 Mini-Game: Catch the Emoji
 
-I'm on a learning journey, and my current goals include:
+(Copia e cola este bloco no seu README — o jogo funciona usando Markdown + JS no GitHub Pages ou no Codespaces.)
 
-- 🚀 Mastering Ai to create efficient and powerful applications.
-- 🐦 Exploring the capabilities of Python and its versatile use cases.
-- 🔍 Delving into the basics of .lua scripting to enhance my programming toolkit.
+<!-- Mini Game simples em HTML + JS para usar no GitHub Pages -->
+<div id="game" style="font-size:30px; text-align:center;">
+  <p id="emoji">🎯</p>
+  <p>Use as setas do teclado para mover o alvo: <span id="cursor">⬇️</span></p>
+  <p>Pontuação: <span id="score">0</span></p>
+</div>
 
-## 💬 Get in touch
+<script>
+let score = 0;
+const emojis = ["🔥","⭐","🍀","⚡","🎯","💎"];
+const cursor = document.getElementById("cursor");
+const scoreBox = document.getElementById("score");
+const emojiBox = document.getElementById("emoji");
 
-I'm always eager to connect with fellow developers, learners, and enthusiasts. If you're interested in any of the topics I'm exploring, or if you'd like to collaborate on projects, feel free to reach out to me.
+document.addEventListener("keydown", (e) => {
+  if (["ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].includes(e.key)) {
+    cursor.textContent = e.key.replace("Arrow","") + "️";
+    const target = emojis[Math.floor(Math.random() * emojis.length)];
+    if (target === "🎯") score++;
+    emojiBox.textContent = target;
+    scoreBox.textContent = score;
+  }
+});
+</script>
 
-📫 How to reach me:
-- GitHub: [LucasLeao18](https://github.com/LucasLeao18)
-- LinkedIn: [Lucas Leão](https://www.linkedin.com/in/lucas-le%C3%A3o-809981269/)
+🧑‍💻 Sobre mim
 
-Looking forward to connecting and sharing knowledge with the community!
+🎓 Bacharelando em Sistemas de Informação — UPE
 
+🤖 Focado em IA, automações e desenvolvimento full-stack
+
+🚀 Crio bots, ferramentas úteis e interfaces modernas
+
+🧠 Amante de desafios e aprendizado constante
+
+📫 Entre em contato
+
+LinkedIn: https://www.linkedin.com/in/lucasleão18/
+
+GitHub: https://github.com/LucasLeao18
