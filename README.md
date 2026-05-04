@@ -21,7 +21,7 @@ Profissional de engenharia de software com sólida experiência na arquitetura e
 * TypeScript, JavaScript, Vite
 
 **Banco de Dados e Infraestrutura**
-* PostgreSQL (Supabase), SQLite
+* PostgreSQL , SQLite , MongoDB
 * Prisma ORM
 
 ## Contato Profissional
