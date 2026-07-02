@@ -8,6 +8,7 @@ Construo aplicações web completas, APIs robustas e interfaces orientadas a per
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasle%C3%A3o18/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasleaopessoal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LucasLeao18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasLeao18)
 
 </div>
 
@@ -60,12 +61,7 @@ Tenho foco em soluções para e-commerce, sistemas administrativos, dashboards, 
 
 ## GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasLeao18&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Lucas Leão" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLeao18&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Lucas Leão" />
-
-</div>
+Veja meus projetos, experimentos e contribuições em [github.com/LucasLeao18](https://github.com/LucasLeao18).
 
 ## Contato
 
