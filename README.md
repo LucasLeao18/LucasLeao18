@@ -63,6 +63,10 @@ Tenho foco em soluções para e-commerce, sistemas administrativos, dashboards, 
 - Segurança aplicada desde a validação de entrada até autenticação e autorização.
 - Observabilidade, métricas e suporte à tomada de decisão em sistemas administrativos.
 
+## Contribuições open source
+
+- **[Avoid AI Writing](https://github.com/conorbronsdon/avoid-ai-writing)** — corrigi a normalização de URLs ao remover parâmetros de rastreamento de IA, preservando parâmetros legítimos, fragmentos e pontuação. A contribuição incluiu testes de regressão, passou por revisão técnica do mantenedor e foi incorporada ao projeto. **[PR #305 — merged](https://github.com/conorbronsdon/avoid-ai-writing/pull/305)**
+
 ## GitHub
 
 Veja meus projetos, experimentos e contribuições em [github.com/LucasLeao18](https://github.com/LucasLeao18).
