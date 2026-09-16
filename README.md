@@ -65,6 +65,9 @@ Tenho foco em soluções para e-commerce, sistemas administrativos, dashboards, 
 
 ## Contribuições open source
 
+- **[Gophercloud](https://github.com/gophercloud/gophercloud)** — ajustei a geração de corpos de requisição, query strings e headers para aceitar zero em campos numéricos obrigatórios, um valor válido na API do OpenStack. A correção preserva as demais validações e inclui testes unitários, de integração e de aceitação. **[PR #4012 — merged](https://github.com/gophercloud/gophercloud/pull/4012)**
+- **[Prettier Plugin Pug](https://github.com/prettier/plugin-pug)** — corrigi a indentação de chamadas de mixins multilinha, fazendo a formatação considerar a largura restante da linha Pug e alinhar corretamente o JavaScript gerado. Também adicionei fixtures de regressão para chamadas longas, interpoladas e aninhadas. **[PR #655 — merged](https://github.com/prettier/plugin-pug/pull/655)**
+- **[TorchEBM](https://github.com/soran-ghaderi/torchebm)** — corrigi a convenção de sinal no denoising score matching para alinhar o alvo ao gradiente de energia. A mudança inclui um teste de regressão que valida a mesma convenção nos métodos exact, denoising e sliced score matching. **[PR #333 — merged](https://github.com/soran-ghaderi/torchebm/pull/333)**
 - **[Avoid AI Writing](https://github.com/conorbronsdon/avoid-ai-writing)** — corrigi a normalização de URLs ao remover parâmetros de rastreamento de IA, preservando parâmetros legítimos, fragmentos e pontuação. A contribuição incluiu testes de regressão, passou por revisão técnica do mantenedor e foi incorporada ao projeto. **[PR #305 — merged](https://github.com/conorbronsdon/avoid-ai-writing/pull/305)**
 
 ## GitHub
