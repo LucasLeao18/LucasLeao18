@@ -74,6 +74,16 @@ Tenho foco em soluções para e-commerce, sistemas administrativos, dashboards, 
 
 Veja meus projetos, experimentos e contribuições em [github.com/LucasLeao18](https://github.com/LucasLeao18).
 
+## Histórico de código
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLeao18/LucasLeao18/main/assets/code-history-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLeao18/LucasLeao18/main/assets/code-history-light.svg" />
+  <img alt="Histórico de linhas adicionadas, linhas removidas, commits e repositórios — somente totais agregados" src="https://raw.githubusercontent.com/LucasLeao18/LucasLeao18/main/assets/code-history-light.svg" width="1100" />
+</picture>
+
+<sub>Atualização diária. Histórico dos branches padrão de projetos públicos e privados; somente datas e totais agregados são publicados. As linhas incluem arquivos de texto, documentação e dependências.</sub>
+
 ## Atividade
 
 <picture>

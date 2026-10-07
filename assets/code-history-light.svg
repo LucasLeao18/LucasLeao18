@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="718" viewBox="0 0 1100 718" role="img" aria-labelledby="title description">
+<title id="title">Histórico de contribuições de Lucas Leão</title>
+<desc id="description">Totais absolutos, linhas adicionadas e removidas acumuladas e commits por mês. Somente dados agregados.</desc>
+<defs><linearGradient id="add-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#00877e" stop-opacity=".24"/><stop offset="1" stop-color="#00877e" stop-opacity=".02"/></linearGradient>
+<linearGradient id="del-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#bc4f1b" stop-opacity=".22"/><stop offset="1" stop-color="#bc4f1b" stop-opacity=".02"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1099" height="717" rx="22" fill="#f7f9fc" stroke="#dbe4ef"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="32" y="44" font-size="12" font-weight="700" fill="#00877e" text-anchor="start">GITHUB / HISTÓRICO</text>
+<text x="32" y="80" font-size="28" font-weight="700" fill="#14243c" text-anchor="start">Minhas contribuições em números</text>
+<text x="32" y="105" font-size="15" font-weight="400" fill="#576c87" text-anchor="start">Uma visão agregada da minha atividade ao longo do tempo.</text>
+<circle cx="932" cy="43" r="4" fill="#00877e"/>
+<text x="946" y="48" font-size="11" font-weight="600" fill="#576c87" text-anchor="start">ATUALIZAÇÃO DIÁRIA</text>
+<rect x="32" y="131" width="247" height="91" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="50" y="158" font-size="11" font-weight="600" fill="#576c87" text-anchor="start">LINHAS ADICIONADAS</text>
+<text x="50" y="197" font-size="27" font-weight="700" fill="#00877e" text-anchor="start">21.521.816</text>
+<rect x="295" y="131" width="247" height="91" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="313" y="158" font-size="11" font-weight="600" fill="#576c87" text-anchor="start">LINHAS REMOVIDAS</text>
+<text x="313" y="197" font-size="27" font-weight="700" fill="#bc4f1b" text-anchor="start">127.418</text>
+<rect x="558" y="131" width="247" height="91" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="576" y="158" font-size="11" font-weight="600" fill="#576c87" text-anchor="start">COMMITS</text>
+<text x="576" y="197" font-size="27" font-weight="700" fill="#396de0" text-anchor="start">1.084</text>
+<rect x="821" y="131" width="247" height="91" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="839" y="158" font-size="11" font-weight="600" fill="#576c87" text-anchor="start">REPOSITÓRIOS</text>
+<text x="839" y="197" font-size="27" font-weight="700" fill="#14243c" text-anchor="start">62</text>
+<rect x="32" y="244" width="502" height="248" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="52" y="274" font-size="15" font-weight="600" fill="#14243c" text-anchor="start">Linhas adicionadas · acumulado</text>
+<path d="M 94 451.0 H 507" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="84" y="455.0" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">0</text>
+<path d="M 94 401.3 H 507" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="84" y="405.3333333333333" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">7,2 mi</text>
+<path d="M 94 351.7 H 507" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="84" y="355.6666666666667" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">14,3 mi</text>
+<path d="M 94 302.0 H 507" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="84" y="306.0" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">21,5 mi</text>
+<path d="M 94.00 451.00 L 104.07 449.30 L 114.15 449.30 L 124.22 449.30 L 134.29 449.30 L 144.37 449.30 L 154.44 449.30 L 164.51 449.30 L 174.59 449.30 L 184.66 449.30 L 194.73 449.30 L 204.80 449.30 L 214.88 449.30 L 224.95 449.30 L 235.02 449.26 L 245.10 447.04 L 255.17 447.04 L 265.24 447.01 L 275.32 447.00 L 285.39 447.00 L 295.46 447.00 L 305.54 447.00 L 315.61 447.00 L 325.68 447.00 L 335.76 447.00 L 345.83 446.99 L 355.90 446.90 L 365.98 446.66 L 376.05 436.28 L 386.12 436.26 L 396.20 436.24 L 406.27 429.30 L 416.34 419.20 L 426.41 418.91 L 436.49 418.86 L 446.56 418.74 L 456.63 314.91 L 466.71 304.57 L 476.78 303.65 L 486.85 302.61 L 496.93 302.18 L 507.00 302.00 L 507.00 451 L 94 451 Z" fill="url(#add-fill)"/>
+<path d="M 94.00 451.00 L 104.07 449.30 L 114.15 449.30 L 124.22 449.30 L 134.29 449.30 L 144.37 449.30 L 154.44 449.30 L 164.51 449.30 L 174.59 449.30 L 184.66 449.30 L 194.73 449.30 L 204.80 449.30 L 214.88 449.30 L 224.95 449.30 L 235.02 449.26 L 245.10 447.04 L 255.17 447.04 L 265.24 447.01 L 275.32 447.00 L 285.39 447.00 L 295.46 447.00 L 305.54 447.00 L 315.61 447.00 L 325.68 447.00 L 335.76 447.00 L 345.83 446.99 L 355.90 446.90 L 365.98 446.66 L 376.05 436.28 L 386.12 436.26 L 396.20 436.24 L 406.27 429.30 L 416.34 419.20 L 426.41 418.91 L 436.49 418.86 L 446.56 418.74 L 456.63 314.91 L 466.71 304.57 L 476.78 303.65 L 486.85 302.61 L 496.93 302.18 L 507.00 302.00" fill="none" stroke="#00877e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="507.00" cy="302.00" r="4" fill="#00877e" stroke="#ffffff" stroke-width="2"/>
+<text x="94.0" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="start">mai 2023</text>
+<text x="235.02439024390245" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">jul 2024</text>
+<text x="365.9756097560976" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">ago 2025</text>
+<text x="507.0" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">out 2026</text>
+<rect x="566" y="244" width="502" height="248" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="586" y="274" font-size="15" font-weight="600" fill="#14243c" text-anchor="start">Linhas removidas · acumulado</text>
+<path d="M 628 451.0 H 1041" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="618" y="455.0" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">0</text>
+<path d="M 628 401.3 H 1041" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="618" y="405.3333333333333" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">42 mil</text>
+<path d="M 628 351.7 H 1041" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="618" y="355.6666666666667" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">85 mil</text>
+<path d="M 628 302.0 H 1041" stroke="#dbe4ef" stroke-dasharray="3 5"/>
+<text x="618" y="306.0" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">127 mil</text>
+<path d="M 628.00 451.00 L 638.07 451.00 L 648.15 451.00 L 658.22 451.00 L 668.29 451.00 L 678.37 451.00 L 688.44 451.00 L 698.51 451.00 L 708.59 451.00 L 718.66 451.00 L 728.73 451.00 L 738.80 451.00 L 748.88 450.96 L 758.95 450.82 L 769.02 447.93 L 779.10 447.65 L 789.17 447.65 L 799.24 446.26 L 809.32 446.19 L 819.39 445.71 L 829.46 445.71 L 839.54 445.71 L 849.61 445.71 L 859.68 445.71 L 869.76 445.71 L 879.83 445.57 L 889.90 440.50 L 899.98 438.63 L 910.05 437.00 L 920.12 434.82 L 930.20 433.97 L 940.27 383.94 L 950.34 378.98 L 960.41 376.33 L 970.49 374.79 L 980.56 371.72 L 990.63 363.27 L 1000.71 330.68 L 1010.78 317.72 L 1020.85 312.98 L 1030.93 305.84 L 1041.00 302.00 L 1041.00 451 L 628 451 Z" fill="url(#del-fill)"/>
+<path d="M 628.00 451.00 L 638.07 451.00 L 648.15 451.00 L 658.22 451.00 L 668.29 451.00 L 678.37 451.00 L 688.44 451.00 L 698.51 451.00 L 708.59 451.00 L 718.66 451.00 L 728.73 451.00 L 738.80 451.00 L 748.88 450.96 L 758.95 450.82 L 769.02 447.93 L 779.10 447.65 L 789.17 447.65 L 799.24 446.26 L 809.32 446.19 L 819.39 445.71 L 829.46 445.71 L 839.54 445.71 L 849.61 445.71 L 859.68 445.71 L 869.76 445.71 L 879.83 445.57 L 889.90 440.50 L 899.98 438.63 L 910.05 437.00 L 920.12 434.82 L 930.20 433.97 L 940.27 383.94 L 950.34 378.98 L 960.41 376.33 L 970.49 374.79 L 980.56 371.72 L 990.63 363.27 L 1000.71 330.68 L 1010.78 317.72 L 1020.85 312.98 L 1030.93 305.84 L 1041.00 302.00" fill="none" stroke="#bc4f1b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1041.00" cy="302.00" r="4" fill="#bc4f1b" stroke="#ffffff" stroke-width="2"/>
+<text x="628.0" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="start">mai 2023</text>
+<text x="769.0243902439024" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">jul 2024</text>
+<text x="899.9756097560976" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">ago 2025</text>
+<text x="1041.0" y="474" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">out 2026</text>
+<rect x="32" y="511" width="1036" height="146" rx="14" fill="#ffffff" stroke="#dbe4ef"/>
+<text x="52" y="540" font-size="15" font-weight="600" fill="#14243c" text-anchor="start">Commits por mês</text>
+<rect x="74.00" y="620.30" width="19.05" height="0.70" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="97.05" y="620.65" width="19.05" height="0.35" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="143.14" y="619.25" width="19.05" height="1.75" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="281.43" y="619.25" width="19.05" height="1.75" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="350.57" y="620.65" width="19.05" height="0.35" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="373.62" y="618.90" width="19.05" height="2.10" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="396.67" y="612.25" width="19.05" height="8.75" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="419.71" y="612.95" width="19.05" height="8.05" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="465.81" y="613.30" width="19.05" height="7.70" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="488.86" y="620.30" width="19.05" height="0.70" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="511.90" y="617.85" width="19.05" height="3.15" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="650.19" y="619.95" width="19.05" height="1.05" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="673.24" y="618.20" width="19.05" height="2.80" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="696.29" y="614.35" width="19.05" height="6.65" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="719.33" y="612.95" width="19.05" height="8.05" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="742.38" y="620.30" width="19.05" height="0.70" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="765.43" y="600.35" width="19.05" height="20.65" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="788.48" y="567.45" width="19.05" height="53.55" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="811.52" y="607.35" width="19.05" height="13.65" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="834.57" y="606.65" width="19.05" height="14.35" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="857.62" y="611.20" width="19.05" height="9.80" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="880.67" y="603.15" width="19.05" height="17.85" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="903.71" y="593.70" width="19.05" height="27.30" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="926.76" y="580.75" width="19.05" height="40.25" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="949.81" y="558.00" width="19.05" height="63.00" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="972.86" y="596.50" width="19.05" height="24.50" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="995.90" y="591.25" width="19.05" height="29.75" rx="3" fill="#396de0" opacity=".85"/>
+<rect x="1018.95" y="610.85" width="19.05" height="10.15" rx="3" fill="#396de0" opacity=".85"/>
+<text x="52" y="562" font-size="10" font-weight="400" fill="#576c87" text-anchor="start">180</text>
+<text x="72.0" y="644" font-size="11" font-weight="400" fill="#576c87" text-anchor="start">mai 2023</text>
+<text x="402.5365853658537" y="644" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">jul 2024</text>
+<text x="709.4634146341464" y="644" font-size="11" font-weight="400" fill="#576c87" text-anchor="middle">ago 2025</text>
+<text x="1040.0" y="644" font-size="11" font-weight="400" fill="#576c87" text-anchor="end">out 2026</text>
+<text x="32" y="690" font-size="12" font-weight="400" fill="#576c87" text-anchor="start">Somente totais agregados · inclui arquivos de texto e dependências</text>
+<text x="1068" y="690" font-size="12" font-weight="400" fill="#576c87" text-anchor="end">Atualizado em 06 out 2026</text>
+</g>
+</svg>
